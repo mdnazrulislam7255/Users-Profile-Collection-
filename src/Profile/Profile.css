@@ -1,0 +1,15 @@
+.profiles-container{
+    display: flex;
+}
+.profiles{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right:  1px solid lightgray;
+}
+footer p{
+    font-size: 16px;
+    text-align: center;
+    padding: 30px;
+    color: grey;
+}

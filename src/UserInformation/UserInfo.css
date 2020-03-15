@@ -1,0 +1,22 @@
+.images{
+    height: 286px;
+    width: 286px;
+}
+.address{
+    line-height: 1em;
+    font-size: 14px;
+}
+.salary{
+    color: brown;
+}
+.users{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+.users-details{
+    margin-left: 30px;
+}
